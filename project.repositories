@@ -1,0 +1,36 @@
+<project-repositories>
+  <repositories>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>alimaven</id>
+        <url>https://maven.aliyun.com/repository/public</url>
+        <source>PROJECT</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>local</id>
+        <url>/Users/fangzhipeng/.m2/repository</url>
+        <source>LOCAL</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>atta-releases</id>
+        <url>http://devops.xtrfr.cn/nexus/content/repositories/releases</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>atta-snapshots</id>
+        <url>http://devops.xtrfr.cn/nexus/content/repositories/snapshots</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+  </repositories>
+</project-repositories>
