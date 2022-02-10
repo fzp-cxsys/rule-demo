@@ -11,9 +11,9 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>alimaven</id>
-        <url>https://maven.aliyun.com/repository/public</url>
-        <source>PROJECT</source>
+        <id>atta-snapshots</id>
+        <url>http://devops.xtrfr.cn/nexus/content/repositories/snapshots</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
@@ -27,9 +27,9 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>atta-snapshots</id>
-        <url>http://devops.xtrfr.cn/nexus/content/repositories/snapshots</url>
-        <source>SETTINGS</source>
+        <id>alimaven</id>
+        <url>https://maven.aliyun.com/repository/public</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
   </repositories>
